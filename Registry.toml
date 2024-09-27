@@ -1,0 +1,6 @@
+name = "JuliaRegistry"
+uuid = "6cc4543a-1e63-4f50-814a-2024cd655bdd"
+repo = "git@github.com:grasph/GrasphRegistry.git"
+description = "Philippe's Julia registry"
+
+[packages]
