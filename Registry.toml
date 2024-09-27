@@ -4,3 +4,4 @@ repo = "git@github.com:grasph/GrasphRegistry.git"
 description = "Philippe's Julia registry"
 
 [packages]
+45b42145-bbac-5752-8807-01f8b2702242 = { name = "ROOT_jll", path = "jll/R/ROOT_jll" }
