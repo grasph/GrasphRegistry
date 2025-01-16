@@ -6,4 +6,5 @@ description = "Philippe's Julia registry"
 [packages]
 2e5227ad-a2cb-5771-a73d-8331af68b27e = { name = "libroot_julia_jll", path = "jll/L/libroot_julia_jll" }
 45b42145-bbac-5752-8807-01f8b2702242 = { name = "ROOT_jll", path = "jll/R/ROOT_jll" }
+962878d8-9763-11ee-8c14-fbf60c98afae = { name = "WrapIt", path = "W/WrapIt" }
 c56a8eb6-3dd0-5432-903d-1a19a3d2a949 = { name = "WrapIt_jll", path = "jll/W/WrapIt_jll" }
