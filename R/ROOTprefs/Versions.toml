@@ -1,2 +1,5 @@
 ["0.0.1-DEV"]
 git-tree-sha1 = "c439503952fd7a3ed00ad2a3ba53832cdea4fb70"
+
+["0.0.1-rc0"]
+git-tree-sha1 = "e7981febb985a3c779fcfc44f69e2cb7fb39819b"
