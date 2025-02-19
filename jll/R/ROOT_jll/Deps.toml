@@ -42,4 +42,5 @@ PCRE_jll = "2f80f16e-611a-54ab-bc61-aa92de5b98fc"
 
 ["6.32.8-6"]
 CFITSIO_jll = "b3e40c51-02ae-5482-8a39-3ace5868dcf4"
+OpenBLAS32 = "51095b67-9e93-468d-a683-508b52f74e81"
 nlohmann_json_jll = "7c7c7bd4-5f1c-5db3-8b3f-fcf8282f06da"
