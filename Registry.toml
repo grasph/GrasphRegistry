@@ -6,5 +6,6 @@ description = "Philippe's Julia registry"
 [packages]
 1706fdcc-8426-44f1-a283-5be479e9517c = { name = "ROOT", path = "R/ROOT" }
 492d890c-d9c4-11ef-b95f-3722e36032c2 = { name = "ROOTprefs", path = "R/ROOTprefs" }
+4f7db680-92c2-5241-a1f0-57b96f62fa1d = { name = "ROOT_julia_jll", path = "jll/R/ROOT_julia_jll" }
 962878d8-9763-11ee-8c14-fbf60c98afae = { name = "WrapIt", path = "W/WrapIt" }
 c56a8eb6-3dd0-5432-903d-1a19a3d2a949 = { name = "WrapIt_jll", path = "jll/W/WrapIt_jll" }
